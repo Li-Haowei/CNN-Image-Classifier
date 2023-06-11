@@ -3,7 +3,3 @@ This project is to implement convolutional neural network (CNN) and train an AI 
 
 # Dataset
 The data is gathering from Google Images (including test images) but none of them will be contained in this repository
-
-```
-print('dog')
-```
